@@ -5,4 +5,4 @@
 - olive oil
 
 # Instructions
-- mash in a pestle and mortar
+- add benzene and mash in a pestle and mortar
