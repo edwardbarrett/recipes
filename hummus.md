@@ -5,3 +5,4 @@
 - olive oil
 
 # Instructions
+- mash in a pestle and mortar
